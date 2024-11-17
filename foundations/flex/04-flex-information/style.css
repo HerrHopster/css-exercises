@@ -24,3 +24,67 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/*
+.plants {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 100px;
+}
+
+.text {
+  text-align: center;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}
+
+.first {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.second {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.third {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.fourth {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  padding: 30px;
+}
+*/
+
+body {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.info {
+  max-width: 200px;
+}
